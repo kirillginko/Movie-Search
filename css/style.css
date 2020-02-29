@@ -1,0 +1,22 @@
+form {
+  width: 60%;
+  margin: 24px auto;
+}
+
+li {
+  list-style: none;
+  padding: 8px 0;
+  background-color: lightgreen;
+  border-radius: 4px;
+  width: 30%;
+  font-size: 110%;
+  margin: 8px auto;
+}
+
+#map {
+  height: 500px;
+  width: 800px;
+  margin: 32px auto;
+}
+/* TODO: Put your CSS code in here */
+
